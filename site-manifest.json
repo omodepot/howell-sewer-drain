@@ -1,0 +1,15 @@
+{
+  "total_html_pages": 74,
+  "canonical_site_pages": 37,
+  "service_pages": 9,
+  "cost_guide_pages": 6,
+  "problem_pages": 7,
+  "service_area_pages": 7,
+  "shared_files": [
+    "styles.css",
+    "script.js",
+    "robots.txt",
+    "sitemap.xml"
+  ],
+  "placeholder_contact_information": true
+}

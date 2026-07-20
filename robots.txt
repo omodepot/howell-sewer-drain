@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.howellseweranddrain.com/sitemap.xml

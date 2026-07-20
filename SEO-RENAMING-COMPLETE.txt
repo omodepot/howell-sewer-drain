@@ -1,0 +1,23 @@
+HOWELL SEWER & DRAIN — SEO-ALIGNED RENAMING COMPLETE
+
+Updated throughout the production folders and flat preview files:
+- Folder names and canonical URL slugs
+- Flat HTML filenames
+- Page title tags
+- Primary H1 headings on renamed pages
+- Canonical URLs
+- Structured-data/schema URLs
+- Main navigation and footer links
+- Internal content links
+- Breadcrumb links and labels
+- sitemap.xml
+- site-manifest references
+
+Key revised slugs:
+/resource-center/
+/problems/tree-roots-in-sewer-lines/
+/problems/orangeburg-sewer-pipe/
+/cost-guides/sewer-camera-inspection-cost/
+/cost-guides/sewer-line-replacement-cost/
+
+The flat-html-pages folder contains standalone preview copies with simple SEO-aligned filenames.

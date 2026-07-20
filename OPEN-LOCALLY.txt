@@ -1,0 +1,1 @@
+All HTML pages now contain their CSS and JavaScript directly inside each file. They will display correctly when opened directly from Finder without a web server. Start with index.html or open any file in flat-html-pages.

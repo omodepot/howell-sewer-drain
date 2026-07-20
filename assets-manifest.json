@@ -1,0 +1,29 @@
+{
+  "package": "Howell Sewer & Drain Production Master",
+  "html_files": 75,
+  "images": [
+    "hero-sewer-and-drain.jpg",
+    "problem-broken-pipe.webp",
+    "problem-collapsed-sewer-line.webp",
+    "problem-frequent-backups.webp",
+    "problem-grease-build-up.webp",
+    "problem-slow-drains.webp",
+    "problem-tree-root-intrusion.webp",
+    "service-camera-inspection.webp",
+    "service-drain-cleaning.webp",
+    "service-hydro-jetting.webp",
+    "service-sewer-repair.webp"
+  ],
+  "icons": [
+    "icon-camera-inspection.png",
+    "icon-drain-cleaning.png",
+    "icon-fast-response.png",
+    "icon-hydro-jetting.png",
+    "icon-licensed-insured.png",
+    "icon-local.png",
+    "icon-schedule.png",
+    "icon-sewer-repair.png",
+    "service-icons.svg",
+    "service-process.svg"
+  ]
+}

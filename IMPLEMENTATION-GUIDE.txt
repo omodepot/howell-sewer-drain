@@ -1,0 +1,47 @@
+HOWELL SEWER & DRAIN — COMPLETE INNER-PAGE HTML SITE
+====================================================
+
+This package extends the supplied homepage design into a complete static website.
+
+CANONICAL WEBSITE PAGES: 37
+The package also includes flat copies of inner-page HTML files for convenience.
+
+MAIN PAGE GROUPS
+• Homepage
+• Services directory + 8 service pages
+• Cost Guides directory + 5 cost pages
+• Sewer Problems directory + 6 problem pages
+• Service Areas directory + 6 local pages
+• About, FAQ, Contact, Resource Center
+• Privacy, Terms, HTML Sitemap, XML Sitemap, robots.txt and 404 page
+
+IMPLEMENTATION
+1. Upload the complete folder contents to the web root.
+2. Preserve the folder structure. Each URL uses a folder with an index.html file.
+3. The site assumes the domain is https://www.howellseweranddrain.com.
+4. Replace all placeholder contact information:
+   • (517) 555-0198
+   • info@howellseweranddrain.com
+5. Connect the contact forms to your form processor or WordPress form plugin.
+6. Update LocalBusiness schema with the real address, legal business name, hours and phone.
+7. Verify every factual business claim before launch.
+8. Add real project photographs, reviews and licensing information only when verified.
+9. Submit sitemap.xml through Google Search Console after launch.
+
+SEO INCLUDED
+• Unique title and meta description on every canonical page
+• Canonical URLs
+• LocalBusiness and WebPage schema
+• Service schema on service pages
+• FAQPage schema where FAQs are displayed
+• Logical internal links
+• Dedicated service, cost, problem and city clusters
+• XML and HTML sitemaps
+• Semantic headings and responsive layout
+
+IMPORTANT
+The page text is production-oriented starter copy, but business-specific facts, pricing,
+insurance language, warranties, licensing claims and customer testimonials must be verified.
+
+LOCAL PREVIEW
+• You may now double-click any index.html file. Styles, scripts and internal navigation use page-relative paths and will work directly from your Mac.
